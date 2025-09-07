@@ -1,8 +1,8 @@
-<img src="images/svg/header_en.svg"></img>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohamed+Amine+Lariba;Full+Stack+Web+Developer+in+Training;Learning+C%2B%2B+and+Web+Technologies)
 
 ### 👨‍💻 About Me
 
-- 🌱 Beginner full-stack web developer in training  
+- 🌱 Beginner full-stack web & app developer in training  
 - 🔭 Currently learning programming fundamentals with C++  
 - 🎯 Interested in web development and backend systems  
 - 📚 Exploring GitHub, open-source, and project collaboration  
