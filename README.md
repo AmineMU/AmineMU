@@ -1,10 +1,14 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohamed+Amine+Lariba;Full+Stack+Web+Developer+in+Training;Learning+C%2B%2B+and+Web+Technologies)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amine%20Lariba&fontSize=38&fontColor=ffffff&animation=twinkling" />
+</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Web+%26+App+Development;Programming+with+C%2B%2B+%26+JavaScript;Exploring+Modern+Tech+and+Open+Source)
 
 ### 👨‍💻 About Me
 
-- 🌱 Beginner full-stack web & app developer in training  
+- 🌱 Beginner full-stack web and app developer in training  
 - 🔭 Currently learning programming fundamentals with C++  
-- 🎯 Interested in web development and backend systems  
+- 🎯 Interested in building websites and applications  
 - 📚 Exploring GitHub, open-source, and project collaboration  
 - 💡 Building small projects to practice and improve skills  
 
